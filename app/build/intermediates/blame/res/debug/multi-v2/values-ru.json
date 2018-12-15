@@ -1,0 +1,77 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\workspace\\MobileCraft\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ru\\values-ru.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dom\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-10.2.1.aar\\27ea9e4a0d4f7c8353f2c1f43898be92\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "237,306,438,535,638,737,830,932,1004,1134",
+                        "endColumns": "68,131,96,102,98,92,101,71,129,96",
+                        "endOffsets": "305,437,534,637,736,829,931,1003,1133,1230"
+                    },
+                    "to": {
+                        "startLines": "2,20,21,22,23,24,25,26,35,36",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,2795,2931,3032,3139,3242,3339,3445,4199,4333",
+                        "endColumns": "72,135,100,106,102,96,105,75,133,100",
+                        "endOffsets": "173,2926,3027,3134,3237,3334,3440,3516,4328,4429"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dom\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.2.1.aar\\a3078c2ee3421cd4f7bd3db5f71dba69\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "215",
+                        "endOffsets": "500"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1190",
+                        "endColumns": "215",
+                        "endOffsets": "1401"
+                    }
+                },
+                {
+                    "source": "C:\\workspace\\MobileCraft\\app\\src\\main\\res\\values-ru\\strings.xml",
+                    "from": {
+                        "startLines": "10,5,11,8,7,6,12,4",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "518,156,635,364,278,209,741,90",
+                        "endColumns": "116,52,105,129,85,68,68,65",
+                        "endOffsets": "630,204,736,489,359,273,805,151"
+                    },
+                    "to": {
+                        "startLines": "27,28,29,30,31,32,33,34",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "3521,3638,3685,3791,3921,4001,4070,4139",
+                        "endColumns": "116,46,105,129,79,68,68,59",
+                        "endOffsets": "3633,3680,3786,3916,3996,4065,4134,4194"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dom\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.1.aar\\e3715cbbf0713db9b989d8a9a84cc7a4\\res\\values-ru\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,388,586,710,818,1019,1146,1275,1515,1620,1814,1938,2164,2348,2443,2529",
+                        "endColumns": "104,197,123,107,200,126,128,239,104,193,123,225,183,94,85,110",
+                        "endOffsets": "387,585,709,817,1018,1145,1274,1514,1619,1813,1937,2163,2347,2442,2528,2639"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "178,287,485,613,725,926,1057,1406,1646,1755,1949,2077,2303,2491,2590,2680",
+                        "endColumns": "108,197,127,111,200,130,132,239,108,193,127,225,187,98,89,114",
+                        "endOffsets": "282,480,608,720,921,1052,1185,1641,1750,1944,2072,2298,2486,2585,2675,2790"
+                    }
+                }
+            ]
+        }
+    ]
+}

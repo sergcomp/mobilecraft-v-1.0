@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\workspace\\MobileCraft\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-bg\\values-bg.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Dom\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-ads-10.2.1.aar\\27ea9e4a0d4f7c8353f2c1f43898be92\\res\\values-bg\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "237,306,446,555,659,777,889,1000,1072,1225",
+                        "endColumns": "68,139,108,103,117,111,110,71,152,100",
+                        "endOffsets": "305,445,554,658,776,888,999,1071,1224,1325"
+                    },
+                    "to": {
+                        "startLines": "2,20,21,22,23,24,25,26,27,28",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,2825,2969,3082,3190,3312,3428,3543,3619,3776",
+                        "endColumns": "72,143,112,107,121,115,114,75,156,104",
+                        "endOffsets": "173,2964,3077,3185,3307,3423,3538,3614,3771,3876"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dom\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-10.2.1.aar\\a3078c2ee3421cd4f7bd3db5f71dba69\\res\\values-bg\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "285",
+                        "endColumns": "196",
+                        "endOffsets": "481"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "1237",
+                        "endColumns": "196",
+                        "endOffsets": "1429"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Dom\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-10.2.1.aar\\e3715cbbf0713db9b989d8a9a84cc7a4\\res\\values-bg\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
+                        "startOffsets": "283,390,587,720,829,1055,1188,1322,1550,1660,1866,2002,2218,2410,2506,2591",
+                        "endColumns": "106,196,132,108,225,132,133,227,109,205,135,215,191,95,84,97",
+                        "endOffsets": "389,586,719,828,1054,1187,1321,1549,1659,1865,2001,2217,2409,2505,2590,2688"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "178,289,486,623,736,962,1099,1434,1662,1776,1982,2122,2338,2534,2634,2723",
+                        "endColumns": "110,196,136,112,225,136,137,227,113,205,139,215,195,99,88,101",
+                        "endOffsets": "284,481,618,731,957,1094,1232,1657,1771,1977,2117,2333,2529,2629,2718,2820"
+                    }
+                }
+            ]
+        }
+    ]
+}

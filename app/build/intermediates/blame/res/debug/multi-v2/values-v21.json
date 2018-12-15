@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\workspace\\MobileCraft\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v21\\values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\workspace\\MobileCraft\\app\\src\\main\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "3,9,20,7,14",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "56,293,820,214,505",
+                        "endLines": "5,12,20,7,18",
+                        "endColumns": "12,12,96,77,12",
+                        "endOffsets": "208,499,912,287,814"
+                    },
+                    "to": {
+                        "startLines": "2,5,9,10,11",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "55,212,423,520,597",
+                        "endLines": "4,8,9,10,15",
+                        "endColumns": "12,12,96,76,12",
+                        "endOffsets": "207,418,515,592,906"
+                    }
+                }
+            ]
+        }
+    ]
+}
