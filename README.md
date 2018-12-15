@@ -36,7 +36,7 @@ For this, the contents of the folder "c:\Users\user-name\AppData\Local\Android\S
 
 The compiled system library 'libsystem_arm.so' is in the directory "...MobileCraft\app\src\main\jniLibs\".
 
-Before you build the project, pack the <Files> folder into the zip archive of the same name in the directory:"...MobileCraft\app\src\main\assets\".
+Before you build the project, pack the 'Files' folder into the zip archive of the same name in the directory:"...MobileCraft\app\src\main\assets\".
 
 If when creating an APK release there is a problem with signature keys, try removing debug key: "c:\Users\user-name\ .android\debug.keystore".
 
